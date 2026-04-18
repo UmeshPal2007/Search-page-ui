@@ -1,0 +1,15 @@
+h1 {
+  text-align: center; color: #fca311 ;
+}
+body {
+  background-color: black;
+}
+#SUBMIT {
+  color: black; background-color: yellowgreen;
+}
+#AIMODE {
+  color: white; background-color: #2F56A3;
+}
+#INCOGNITO {
+  color: white; background-color: slategrey
+}
